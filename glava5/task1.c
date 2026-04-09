@@ -1,4 +1,4 @@
-#include <stdio.h> // Добавлено: нужно для работы printf
+#include <stdio.h> 
 
 struct fish {
     const char *name;
